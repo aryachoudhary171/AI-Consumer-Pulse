@@ -35,3 +35,9 @@ Static HTML/CSS/JavaScript prototype for deployment portability. The architectur
 
 ## What this demonstrates
 Consumer intelligence · Market research · Competitive intelligence · Web research · Evidence verification · Product research · Sentiment classification · Data visualization · Opportunity analysis · Business recommendation.
+
+## 🚀 Live Demo
+
+👉 **[View Live Demo](https://ai-consumer-pulse.hatchable.site/)**
+
+Explore the interactive AI Consumer Pulse 2026 dashboard, including category trends, consumer pain points, feature demand, opportunity radar, switching intelligence, and research evidence.
