@@ -1,0 +1,11 @@
+Category,Product,Company,Pricing,Free Plan,Positive Themes,Negative Themes,Feature Requests,Source,Source Type,Research Date,Confidence
+AI Assistants,ChatGPT,OpenAI,Free; paid tiers,Yes,breadth; multimodal workflows,limits; accuracy expectations,memory; controls; reliability,https://openai.com/chatgpt/overview/,Official,2026-09-11,High
+AI Assistants,Claude,Anthropic,Free; Pro and Max,Yes,writing quality; long context,usage limits; availability,more usage; integrations,https://www.anthropic.com/claude,Official,2026-09-11,High
+AI Search,Perplexity,Perplexity,Free; Pro,Yes,citations; research workflow,answer consistency; limits,source control; deeper research,https://www.perplexity.ai/,Official,2026-09-11,High
+AI Coding,GitHub Copilot,GitHub,Free; paid tiers,Yes,IDE integration; agent workflows,usage metering; data concerns,predictable usage; controls,https://github.com/features/copilot/plans,Official,2026-09-11,High
+AI Writing,Grammarly,Grammarly,Free; paid plans,Yes,editing speed; workflow integration,over-editing; subscription value,control; personalization,https://www.grammarly.com/plans,Official,2026-09-11,High
+AI Creative,Canva Magic Studio,Canva,Free; paid plans,Yes,ease of use; integrated creation,credit limits; output consistency,more control; higher limits,https://www.canva.com/magic-studio/,Official,2026-09-11,High
+AI Education,Duolingo Max,Duolingo,Paid AI tier; regional pricing,Partial,roleplay; explanations,price; availability,broader access; personalization,https://www.duolingo.com/super,Official,2026-09-11,High
+AI Coding,Cursor,Anysphere,Free tier; paid plans,Yes,codebase context; agentic editing,usage limits; model costs,predictable limits; more context,https://www.cursor.com/pricing,Official,2026-09-11,High
+AI Productivity,Notion AI,Notion,Free trial/limited AI; paid plans,Partial,workspace context; embedded AI,feature complexity; value perception,automation; better retrieval,https://www.notion.com/product/ai,Official,2026-09-11,High
+AI Career,Teal,Teal,Free core; paid premium features,Yes,job workflow; resume support,premium limits; workflow depth,deeper personalization; automation,https://www.tealhq.com/,Official,2026-09-11,High
